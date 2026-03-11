@@ -4,7 +4,7 @@ It serves as a 101 of qml syntax for Quickshell
 
 **Find the Source Files at:**
 ```Bash
-.
+Quickshell-Examples
 └── src
     ├── example_dynamic_row_layout.qml
     ├── example_hovering_advanced.qml
